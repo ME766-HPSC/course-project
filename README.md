@@ -10,7 +10,7 @@ at IIT Bombay in Spring 2021.
 |Name|IITB roll number|
 |-|-|
 |[Abhijeet Prasad Bodas](https://github.com/abhijeetbodas2001)|190100004|
-|Hardik Shrivastaave|190100053|
+|[Hardik Shrivastava](https://github.com/1027hardik)|190100053|
 |[Shiven Amol Barbare](https://github.com/bshiven01)|190100110|
 
 Householder algorithm denoted by "HH"
